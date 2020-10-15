@@ -552,6 +552,9 @@ div.footer_menu a:hover {
     height: 500px;
     margin: 0 auto;
   }
+  main div.conteiner .rating {
+    height: 25px;
+  }
   main div.conteiner section.content h1 {
     font-size: 56px;
     line-height: 35px;
