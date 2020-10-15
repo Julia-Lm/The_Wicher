@@ -190,6 +190,11 @@ section.content {
   background-image: url(../img/Vector0.svg);
   background-position: center;
   background-repeat: no-repeat;
+  background-size: 15px;
+  height: 15px;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 15px;
+          flex: 0 0 15px;
   cursor: pointer;
 }
 
