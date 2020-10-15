@@ -552,19 +552,6 @@ div.footer_menu a:hover {
     height: 500px;
     margin: 0 auto;
   }
-  main div.conteiner .rating {
-    width: 178px;
-  }
-  main div.conteiner .rating .stars {
-    width: 140px;
-  }
-  main div.conteiner .rating .stars .star {
-    background-size: 10px;
-    height: 10px;
-    -webkit-box-flex: 0;
-        -ms-flex: 0 0 10px;
-            flex: 0 0 10px;
-  }
   main div.conteiner section.content h1 {
     font-size: 56px;
     line-height: 35px;
