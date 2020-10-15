@@ -178,8 +178,6 @@ section.content {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 15px;
-  -webkit-transition: all .5s ease;
-  transition: all .5s ease;
   height: 15px;
   -webkit-box-flex: 0;
       -ms-flex: 0 0 15px;
